@@ -1,0 +1,14 @@
+C:\Users\A\Desktop\C#\laba2\obj\Debug\net9.0\laba2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A\Desktop\C#\laba2\obj\Debug\net9.0\laba2.AssemblyInfoInputs.cache
+C:\Users\A\Desktop\C#\laba2\obj\Debug\net9.0\laba2.AssemblyInfo.cs
+C:\Users\A\Desktop\C#\laba2\obj\Debug\net9.0\laba2.csproj.CoreCompileInputs.cache
+C:\Users\A\Desktop\C#\laba2\bin\Debug\net9.0\laba2.exe
+C:\Users\A\Desktop\C#\laba2\bin\Debug\net9.0\laba2.deps.json
+C:\Users\A\Desktop\C#\laba2\bin\Debug\net9.0\laba2.runtimeconfig.json
+C:\Users\A\Desktop\C#\laba2\bin\Debug\net9.0\laba2.dll
+C:\Users\A\Desktop\C#\laba2\bin\Debug\net9.0\laba2.pdb
+C:\Users\A\Desktop\C#\laba2\obj\Debug\net9.0\laba2.dll
+C:\Users\A\Desktop\C#\laba2\obj\Debug\net9.0\refint\laba2.dll
+C:\Users\A\Desktop\C#\laba2\obj\Debug\net9.0\laba2.pdb
+C:\Users\A\Desktop\C#\laba2\obj\Debug\net9.0\laba2.genruntimeconfig.cache
+C:\Users\A\Desktop\C#\laba2\obj\Debug\net9.0\ref\laba2.dll

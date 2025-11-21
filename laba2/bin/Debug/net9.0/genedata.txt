@@ -1,0 +1,26 @@
+Матвей
+Генетический поиск
+---
+001: search	SIIK
+Homo sapiens (Human) — 6.8 kDa mitochondrial proteolipid
+---
+002: search	PLML
+Homo sapiens (Human) — Pre-T/NK cell associated protein 6H9A
+---
+003: search	FK3I
+NOT FOUND
+---
+004: diff	6.8 kDa mitochondrial proteolipid	Alcohol dehydrogenase
+amino-acids difference: 81
+---
+005: diff	RNA-dependent RNA polymerase [Fragment]	Alcohol dehydrogenase
+amino-acids difference: 115
+---
+006: diff	Cecropin	Pre-T/NK cell associated protein 6H9A
+amino-acids difference: 56
+---
+007: mode	Cecropin
+amino-acid occurs: A (5 times)
+---
+008: mode	Alcohol dehydrogenase
+amino-acid occurs: V (11 times)
