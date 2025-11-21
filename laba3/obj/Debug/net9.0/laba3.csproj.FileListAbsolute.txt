@@ -1,0 +1,15 @@
+c:\Users\A\Desktop\C#\laba3\obj\Debug\net9.0\laba3.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\A\Desktop\C#\laba3\obj\Debug\net9.0\laba3.AssemblyInfoInputs.cache
+c:\Users\A\Desktop\C#\laba3\obj\Debug\net9.0\laba3.AssemblyInfo.cs
+c:\Users\A\Desktop\C#\laba3\obj\Debug\net9.0\laba3.csproj.CoreCompileInputs.cache
+c:\Users\A\Desktop\C#\laba3\bin\Debug\net9.0\laba3.exe
+C:\Users\A\Desktop\C#\laba3\bin\Debug\net9.0\laba3.deps.json
+C:\Users\A\Desktop\C#\laba3\bin\Debug\net9.0\laba3.runtimeconfig.json
+c:\Users\A\Desktop\C#\laba3\bin\Debug\net9.0\laba3.dll
+c:\Users\A\Desktop\C#\laba3\bin\Debug\net9.0\laba3.pdb
+c:\Users\A\Desktop\C#\laba3\obj\Debug\net9.0\laba3.dll
+c:\Users\A\Desktop\C#\laba3\obj\Debug\net9.0\refint\laba3.dll
+c:\Users\A\Desktop\C#\laba3\obj\Debug\net9.0\laba3.pdb
+C:\Users\A\Desktop\C#\laba3\obj\Debug\net9.0\laba3.genruntimeconfig.cache
+C:\Users\A\Desktop\C#\laba3\obj\Debug\net9.0\ref\laba3.dll
+c:\Users\A\Desktop\C#\laba3\bin\Debug\net9.0\stopwords_ru.txt

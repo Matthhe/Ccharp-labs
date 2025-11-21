@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <sentence>
+    <word>5</word>
+    <word>5</word>
+    <word>picked</word>
+    <word>a</word>
+    <word>of</word>
+    <word>pickled</word>
+    <word>peppers</word>
+  </sentence>
+  <sentence>
+    <word>A</word>
+    <word>of</word>
+    <word>pickled</word>
+    <word>peppers</word>
+    <word>5</word>
+    <word>5</word>
+    <word>picked</word>
+  </sentence>
+  <sentence>
+    <word>If</word>
+    <word>5</word>
+    <word>5</word>
+    <word>picked</word>
+    <word>a</word>
+    <word>of</word>
+    <word>pickled</word>
+    <word>peppers</word>
+    <word>5</word>
+    <word>'</word>
+    <word>s</word>
+    <word>the</word>
+    <word>of</word>
+    <word>pickled</word>
+    <word>peppers</word>
+    <word>5</word>
+    <word>5</word>
+    <word>picked</word>
+  </sentence>
+</text>
