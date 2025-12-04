@@ -78,7 +78,6 @@ public class Concordance
         return result.ToString();
     }
 
-    // Получение сырых данных конкорданса (для дополнительного использования)
     public SortedDictionary<string, (int totalCount, SortedSet<int> sentenceNumbers)> GetRawData()
     {
         return new SortedDictionary<string, (int, SortedSet<int>)>(concordanceData);
@@ -101,9 +100,10 @@ public class Concordance
         return concordanceData.Keys;
     }
 
-    // Очистка конкорданса
+    // Очистка 
     public void Clear()
     {
         concordanceData.Clear();
     }
+
 }
